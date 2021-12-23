@@ -1,0 +1,10 @@
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "D1" differs only in case from object "d1" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "D2" differs only in case from object "d2" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "D3" differs only in case from object "d3" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "D4" differs only in case from object "d4" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "OR1" differs only in case from object "or1" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "XOR1" differs only in case from object "xor1" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "NOT1" differs only in case from object "not1" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "AND1" differs only in case from object "and1" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(31): object "AND2" differs only in case from object "and2" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 31
+Info (10281): Verilog HDL Declaration information at SystemVerilog2.sv(30): object "X" differs only in case from object "x" in the same scope File: C:/dev/sorubir/quart/SystemVerilog2.sv Line: 30

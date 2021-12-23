@@ -1,0 +1,18 @@
+module half_adder (
+    input  logic a, b,
+    output logic C, S,
+);
+assign S = (a ^ b) ;
+assign C = (a & b) ;
+endmodule
+
+module full_adder(
+	input a, b, c;
+	output C, S,
+);
+
+	logic C1, S1, C2, S2;
+	half_adder half_adder1(a, b, C1, S1);
+	half_adder half_adder2(C, S1, C2, S);
+	assign C = (C1 | C2) ;
+endmodule
