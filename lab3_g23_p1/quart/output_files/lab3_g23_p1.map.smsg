@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at lab3_g23_p1.sv(11): always construct contains both blocking and non-blocking assignments File: C:/dev/lab3_g23_p1/quart/lab3_g23_p1.sv Line: 11

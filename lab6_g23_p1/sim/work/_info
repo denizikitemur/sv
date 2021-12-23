@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/dev/execute/sim
+vlab6_g23_p1
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1625793415
+!i10b 1
+!s100 DK2D^OScOZzL[_5FZz;300
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ij[aIi_PfUz<9lnze065Fz2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/dev/lab6_g23_p1/sim
+w1625793412
+8C:\dev\lab6_g23_p1\rtl\lab6_g23_p1.sv
+FC:\dev\lab6_g23_p1\rtl\lab6_g23_p1.sv
+!i122 15
+L0 1 94
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1625793415.000000
+!s107 C:\dev\lab6_g23_p1\rtl\lab6_g23_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\dev\lab6_g23_p1\rtl\lab6_g23_p1.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtb_lab6_g23_p1
+R0
+R1
+!i10b 1
+!s100 `;n@Y5;nU0IWYTIJ`lV3z1
+R2
+IbP2kGm;WldA0Sc]HH5J251
+R3
+S1
+R4
+w1625792735
+8C:\dev\lab6_g23_p1\tb\tb_lab6_g23_p1.sv
+FC:\dev\lab6_g23_p1\tb\tb_lab6_g23_p1.sv
+!i122 16
+L0 3 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\dev\lab6_g23_p1\tb\tb_lab6_g23_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\dev\lab6_g23_p1\tb\tb_lab6_g23_p1.sv|
+!i113 1
+R7
+R8
+vtb_lab6_g26_p1
+R0
+!s110 1625785378
+!i10b 1
+!s100 KmBnMQML]h;;:VI:0E2`m0
+R2
+IiQDS>;MTPKc9Uh<ffzLW02
+R3
+S1
+R4
+w1625785162
+8C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv
+FC:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv
+!i122 1
+L0 3 34
+R5
+r1
+!s85 0
+31
+!s108 1625785378.000000
+!s107 C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv|
+!i113 1
+R7
+R8

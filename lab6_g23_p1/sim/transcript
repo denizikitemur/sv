@@ -1,0 +1,132 @@
+# Compile of lab6_g23_p1.sv was successful.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_lab6_g26_p1
+# vsim -gui work.tb_lab6_g26_p1 
+# Start time: 02:03:09 on Jul 09,2021
+# Loading sv_std.std
+# Loading work.tb_lab6_g26_p1
+# ** Error: (vsim-3033) Instantiation of 'lab6_g26_p1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_lab6_g26_p1 File: C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv Line: 13
+#         Searched libraries:
+#             C:/dev/lab6_g23_p1/sim/work
+# Error loading design
+# End time: 02:03:09 on Jul 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 6
+# Compile of lab6_g23_p1.sv was successful.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_lab6_g26_p1
+# vsim -gui work.tb_lab6_g26_p1 
+# Start time: 02:04:00 on Jul 09,2021
+# Loading sv_std.std
+# Loading work.tb_lab6_g26_p1
+# ** Error: (vsim-3033) Instantiation of 'lab6_g26_p1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_lab6_g26_p1 File: C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv Line: 13
+#         Searched libraries:
+#             C:/dev/lab6_g23_p1/sim/work
+# Error loading design
+# End time: 02:04:00 on Jul 09,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Load canceled
+vsim -gui work.tb_lab6_g23_p1
+# vsim -gui work.tb_lab6_g23_p1 
+# Start time: 02:04:22 on Jul 09,2021
+# Loading sv_std.std
+# Loading work.tb_lab6_g23_p1
+# Loading work.lab6_g23_p1
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_lab6_g23_p1/*
+run -all
+# ** Note: $stop    : C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv(33)
+#    Time: 120 ns  Iteration: 0  Instance: /tb_lab6_g23_p1
+# Break in Module tb_lab6_g23_p1 at C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv line 33
+quit -sim
+# End time: 03:45:26 on Jul 09,2021, Elapsed time: 1:41:04
+# Errors: 0, Warnings: 1
+# Compile of lab6_g23_p1.sv was successful.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_lab6_g23_p1
+# vsim -gui work.tb_lab6_g23_p1 
+# Start time: 03:45:44 on Jul 09,2021
+# Loading sv_std.std
+# Loading work.tb_lab6_g23_p1
+# Loading work.lab6_g23_p1
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_lab6_g23_p1/*
+run -all
+# ** Note: $stop    : C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv(22)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_lab6_g23_p1
+# Break in Module tb_lab6_g23_p1 at C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv line 22
+quit -sim
+# End time: 03:46:45 on Jul 09,2021, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 2
+# Compile of lab6_g23_p1.sv was successful.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_lab6_g23_p1
+# vsim -gui work.tb_lab6_g23_p1 
+# Start time: 03:47:34 on Jul 09,2021
+# Loading sv_std.std
+# Loading work.tb_lab6_g23_p1
+# Loading work.lab6_g23_p1
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_lab6_g23_p1/*
+run -all
+# ** Note: $stop    : C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv(23)
+#    Time: 50 ns  Iteration: 0  Instance: /tb_lab6_g23_p1
+# Break in Module tb_lab6_g23_p1 at C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv line 23
+quit -sim
+# End time: 04:05:03 on Jul 09,2021, Elapsed time: 0:17:29
+# Errors: 0, Warnings: 2
+# Compile of lab6_g23_p1.sv failed with 1 errors.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of lab6_g23_p1.sv failed with 1 errors.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of lab6_g23_p1.sv was successful.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_lab6_g23_p1
+# vsim -gui work.tb_lab6_g23_p1 
+# Start time: 04:08:17 on Jul 09,2021
+# Loading sv_std.std
+# Loading work.tb_lab6_g23_p1
+# Loading work.lab6_g23_p1
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_lab6_g23_p1/*
+run -all
+# ** Note: $stop    : C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv(23)
+#    Time: 50 ns  Iteration: 0  Instance: /tb_lab6_g23_p1
+# Break in Module tb_lab6_g23_p1 at C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv line 23
+quit -sim
+# End time: 04:09:16 on Jul 09,2021, Elapsed time: 0:00:59
+# Errors: 0, Warnings: 4
+# Compile of lab6_g23_p1.sv failed with 2 errors.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of lab6_g23_p1.sv failed with 1 errors.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of lab6_g23_p1.sv failed with 1 errors.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of lab6_g23_p1.sv was successful.
+# Compile of tb_lab6_g23_p1.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_lab6_g23_p1
+# vsim -gui work.tb_lab6_g23_p1 
+# Start time: 04:17:06 on Jul 09,2021
+# Loading sv_std.std
+# Loading work.tb_lab6_g23_p1
+# Loading work.lab6_g23_p1
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_lab6_g23_p1/*
+run -all
+# ** Note: $stop    : C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv(23)
+#    Time: 50 ns  Iteration: 0  Instance: /tb_lab6_g23_p1
+# Break in Module tb_lab6_g23_p1 at C:/dev/lab6_g23_p1/tb/tb_lab6_g23_p1.sv line 23
+# End time: 05:12:57 on Jul 09,2021, Elapsed time: 0:55:51
+# Errors: 0, Warnings: 5
